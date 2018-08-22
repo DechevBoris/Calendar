@@ -1,0 +1,264 @@
+# depslib dependency file v1.0
+1525976645 source:d:\semester2\oop\hw2_71751\71751_1_2\src\time.cpp
+	"Time.h"
+
+1525983110 d:\semester2\oop\hw2_71751\71751_1_2\include\time.h
+	<iostream>
+	<cassert>
+	<cstring>
+
+1526026568 source:d:\semester2\oop\hw2_71751\71751_1_2\src\diapason.cpp
+	"Diapason.h"
+
+1525983468 d:\semester2\oop\hw2_71751\71751_1_2\include\diapason.h
+	"Time.h"
+
+1526055188 source:d:\semester2\oop\hw2_71751\71751_1_2\main.cpp
+	"BusinessTask.h"
+
+1526055171 source:d:\semester2\oop\hw2_71751\71751_1_2\src\task.cpp
+	"Task.h"
+
+1526054344 d:\semester2\oop\hw2_71751\71751_1_2\include\task.h
+	"Diapason.h"
+
+1526055342 source:d:\semester2\oop\hw2_71751\71751_1_2\src\businesstask.cpp
+	"BusinessTask.h"
+
+1526055304 d:\semester2\oop\hw2_71751\71751_1_2\include\businesstask.h
+	"Task.h"
+	"Person.h"
+
+1526051607 source:d:\semester2\oop\hw2_71751\71751_1_2\src\person.cpp
+	"Person.h"
+
+1526051607 d:\semester2\oop\hw2_71751\71751_1_2\include\person.h
+	<cstring>
+	<iostream>
+	<vector>
+
+1526237415 source:d:\semester 2\oop\hw2_71751\hw2_71751\71751_1_2\src\diapason.cpp
+	"Diapason.h"
+
+1526237415 d:\semester 2\oop\hw2_71751\hw2_71751\71751_1_2\include\diapason.h
+	"Time.h"
+
+1526237415 d:\semester 2\oop\hw2_71751\hw2_71751\71751_1_2\include\time.h
+	<iostream>
+	<cassert>
+	<cstring>
+
+1526237968 source:d:\semester 2\oop\hw2_71751\hw2_71751\71751_1_2\src\person.cpp
+	"Person.h"
+
+1526237968 d:\semester 2\oop\hw2_71751\hw2_71751\71751_1_2\include\person.h
+	<cstring>
+	<iostream>
+	<vector>
+
+1526391207 source:d:\semester 2\oop\hw2_71751\hw2_71751\71751_1_2\src\task.cpp
+	"Task.h"
+
+1526392100 d:\semester 2\oop\hw2_71751\hw2_71751\71751_1_2\include\task.h
+	"Diapason.h"
+
+1526237415 source:d:\semester 2\oop\hw2_71751\hw2_71751\71751_1_2\src\time.cpp
+	"Time.h"
+
+1526507656 source:d:\semester 2\oop\hw2_71751\hw2_71751\71751_1_2\src\businesstask.cpp
+	"BusinessTask.h"
+
+1526391924 d:\semester 2\oop\hw2_71751\hw2_71751\71751_1_2\include\businesstask.h
+	"Task.h"
+	"Person.h"
+
+1526508598 source:d:\semester 2\oop\hw2_71751\hw2_71751\71751_1_2\main.cpp
+	"BusinessTask.h"
+	"SchoolTask.h"
+	"EntertainmentTask.h"
+	"Day.h"
+	"Calendar.h"
+
+1526507656 source:d:\semester 2\oop\hw2_71751\hw2_71751\71751_1_2\src\schooltask.cpp
+	"SchoolTask.h"
+
+1526391637 d:\semester 2\oop\hw2_71751\hw2_71751\71751_1_2\include\schooltask.h
+	"Task.h"
+
+1526507656 source:d:\semester 2\oop\hw2_71751\hw2_71751\71751_1_2\src\entertainmenttask.cpp
+	"EntertainmentTask.h"
+
+1526390577 d:\semester 2\oop\hw2_71751\hw2_71751\71751_1_2\include\entertainmenttask.h
+	"Task.h"
+
+1526508369 source:d:\semester 2\oop\hw2_71751\hw2_71751\71751_1_2\src\day.cpp
+	"Day.h"
+
+1526508052 d:\semester 2\oop\hw2_71751\hw2_71751\71751_1_2\include\day.h
+	"Task.h"
+	<vector>
+
+1526508582 source:d:\semester 2\oop\hw2_71751\hw2_71751\71751_1_2\src\month.cpp
+	"Month.h"
+
+1526488814 d:\semester 2\oop\hw2_71751\hw2_71751\71751_1_2\include\month.h
+	"Day.h"
+
+1526505740 source:d:\semester 2\oop\hw2_71751\hw2_71751\71751_1_2\src\calendar.cpp
+	"Calendar.h"
+
+1526418793 d:\semester 2\oop\hw2_71751\hw2_71751\71751_1_2\include\calendar.h
+	"Month.h"
+
+1526922443 source:d:\semester2\oop\hw2_71751\71751_1_2\71751_1_2\src\businesstask.cpp
+	"BusinessTask.h"
+
+1526921998 d:\semester2\oop\hw2_71751\71751_1_2\71751_1_2\include\businesstask.h
+	"Task.h"
+	"Person.h"
+
+1526921998 d:\semester2\oop\hw2_71751\71751_1_2\71751_1_2\include\task.h
+	"Diapason.h"
+	<fstream>
+
+1526921998 d:\semester2\oop\hw2_71751\71751_1_2\71751_1_2\include\diapason.h
+	"Time.h"
+
+1526921998 d:\semester2\oop\hw2_71751\71751_1_2\71751_1_2\include\time.h
+	<iostream>
+	<cassert>
+	<cstring>
+	<fstream>
+
+1526921998 d:\semester2\oop\hw2_71751\71751_1_2\71751_1_2\include\person.h
+	<cstring>
+	<iostream>
+	<vector>
+	<fstream>
+
+1526925000 source:d:\semester2\oop\hw2_71751\71751_1_2\71751_1_2\src\calendar.cpp
+	"Calendar.h"
+
+1526921998 d:\semester2\oop\hw2_71751\71751_1_2\71751_1_2\include\calendar.h
+	"Month.h"
+
+1526921998 d:\semester2\oop\hw2_71751\71751_1_2\71751_1_2\include\month.h
+	"Day.h"
+
+1526921998 d:\semester2\oop\hw2_71751\71751_1_2\71751_1_2\include\day.h
+	"Task.h"
+	<vector>
+
+1526922443 source:d:\semester2\oop\hw2_71751\71751_1_2\71751_1_2\src\day.cpp
+	"Day.h"
+
+1526921998 source:d:\semester2\oop\hw2_71751\71751_1_2\71751_1_2\src\diapason.cpp
+	"Diapason.h"
+
+1526922443 source:d:\semester2\oop\hw2_71751\71751_1_2\71751_1_2\src\entertainmenttask.cpp
+	"EntertainmentTask.h"
+
+1526921998 d:\semester2\oop\hw2_71751\71751_1_2\71751_1_2\include\entertainmenttask.h
+	"Task.h"
+
+1526922469 source:d:\semester2\oop\hw2_71751\71751_1_2\71751_1_2\src\month.cpp
+	"Month.h"
+
+1526922443 source:d:\semester2\oop\hw2_71751\71751_1_2\71751_1_2\src\person.cpp
+	"Person.h"
+
+1526922443 source:d:\semester2\oop\hw2_71751\71751_1_2\71751_1_2\src\schooltask.cpp
+	"SchoolTask.h"
+
+1526921998 d:\semester2\oop\hw2_71751\71751_1_2\71751_1_2\include\schooltask.h
+	"Task.h"
+
+1526921998 source:d:\semester2\oop\hw2_71751\71751_1_2\71751_1_2\src\task.cpp
+	"Task.h"
+
+1526922443 source:d:\semester2\oop\hw2_71751\71751_1_2\71751_1_2\src\time.cpp
+	"Time.h"
+
+1526922672 source:d:\semester2\oop\hw2_71751\71751_1_2\71751_1_2\main.cpp
+	"BusinessTask.h"
+	"SchoolTask.h"
+	"EntertainmentTask.h"
+	"Day.h"
+	"Calendar.h"
+
+1527013283 source:d:\semester 2\oop\hw2_71751\71751_1_2\71751_1_2\main.cpp
+	"BusinessTask.h"
+	"SchoolTask.h"
+	"EntertainmentTask.h"
+	"Day.h"
+	"Calendar.h"
+
+1526925598 d:\semester 2\oop\hw2_71751\71751_1_2\71751_1_2\include\businesstask.h
+	"Task.h"
+	"Person.h"
+
+1526925598 d:\semester 2\oop\hw2_71751\71751_1_2\71751_1_2\include\task.h
+	"Diapason.h"
+	<fstream>
+
+1526925598 d:\semester 2\oop\hw2_71751\71751_1_2\71751_1_2\include\diapason.h
+	"Time.h"
+
+1526925598 d:\semester 2\oop\hw2_71751\71751_1_2\71751_1_2\include\time.h
+	<iostream>
+	<cassert>
+	<cstring>
+	<fstream>
+
+1526925598 d:\semester 2\oop\hw2_71751\71751_1_2\71751_1_2\include\person.h
+	<cstring>
+	<iostream>
+	<vector>
+	<fstream>
+
+1526925598 d:\semester 2\oop\hw2_71751\71751_1_2\71751_1_2\include\schooltask.h
+	"Task.h"
+
+1526925598 d:\semester 2\oop\hw2_71751\71751_1_2\71751_1_2\include\entertainmenttask.h
+	"Task.h"
+
+1526925598 d:\semester 2\oop\hw2_71751\71751_1_2\71751_1_2\include\day.h
+	"Task.h"
+	<vector>
+
+1526925598 d:\semester 2\oop\hw2_71751\71751_1_2\71751_1_2\include\calendar.h
+	"Month.h"
+
+1526925598 d:\semester 2\oop\hw2_71751\71751_1_2\71751_1_2\include\month.h
+	"Day.h"
+
+1526926043 source:d:\semester 2\oop\hw2_71751\71751_1_2\71751_1_2\src\businesstask.cpp
+	"BusinessTask.h"
+
+1526928600 source:d:\semester 2\oop\hw2_71751\71751_1_2\71751_1_2\src\calendar.cpp
+	"Calendar.h"
+
+1526926043 source:d:\semester 2\oop\hw2_71751\71751_1_2\71751_1_2\src\day.cpp
+	"Day.h"
+
+1526925598 source:d:\semester 2\oop\hw2_71751\71751_1_2\71751_1_2\src\diapason.cpp
+	"Diapason.h"
+
+1526926043 source:d:\semester 2\oop\hw2_71751\71751_1_2\71751_1_2\src\entertainmenttask.cpp
+	"EntertainmentTask.h"
+
+1526926069 source:d:\semester 2\oop\hw2_71751\71751_1_2\71751_1_2\src\month.cpp
+	"Month.h"
+
+1526926043 source:d:\semester 2\oop\hw2_71751\71751_1_2\71751_1_2\src\person.cpp
+	"Person.h"
+
+1526926043 source:d:\semester 2\oop\hw2_71751\71751_1_2\71751_1_2\src\schooltask.cpp
+	"SchoolTask.h"
+
+1526925598 source:d:\semester 2\oop\hw2_71751\71751_1_2\71751_1_2\src\task.cpp
+	"Task.h"
+
+1526926043 source:d:\semester 2\oop\hw2_71751\71751_1_2\71751_1_2\src\time.cpp
+	"Time.h"
+
